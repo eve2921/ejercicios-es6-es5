@@ -12,12 +12,12 @@ indicada.
 
 ```
 totalByCategory(inventory, "beverage");
-
-debe mostrar en cosola: 120
 ```
+
+Debe mostrar en cosola: `120`
 
 ```
 totalByCategory(inventory, "no-existe");
-
-debe mostrar en cosola: 0
 ```
+
+Debe mostrar en cosola: `0`

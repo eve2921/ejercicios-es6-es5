@@ -1,33 +1,15 @@
-                            // ES5
+  // ES5
 
-// declara la variable
-
-
-// escribe tu funcion
+  // declara la variable
 
 
+  // escribe tu funcion
+
+  //ES6
+  // Comenta todo lo anterior y escribelo en ES6
 
 
+  // declara la variable
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-                              //ES6
-// Comenta todo lo anterior y escribelo en ES6
-
-
-// declara la variable
-
-
-// escribe tu funcion
+  // escribe tu funcion
