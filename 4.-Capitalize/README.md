@@ -5,7 +5,6 @@ una palabra en mayúscula.
 
 **Ya te damos la solución, lo que tienes que hacer es cambiar el código de ES6 a ES5**
 
-```
-Entrada: 'laboratoria mexico'
-Salida: 'Laboratoria Mexico'
-```
+Entrada: `'laboratoria mexico'`
+
+Salida: `'Laboratoria Mexico'`
