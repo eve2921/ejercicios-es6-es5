@@ -1,4 +1,4 @@
-                        // ES5
+// ES5
 
 
 // 1.1- Mostrar en la consola un mensaje que diga... "El numero de generaciones es (numero de generaciones en total)"
@@ -36,7 +36,7 @@
 
 
 
-                                  
+
 // Alcance 2... 
 
 
